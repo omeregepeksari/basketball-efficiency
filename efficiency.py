@@ -2,6 +2,7 @@
 # usage: python3 efficiency.py [season ...]
 
 import csv
+import json
 import re
 import sys
 import urllib.request
@@ -154,6 +155,67 @@ def load_players(html, team, season, team_poss):
     write_csv(DATA / season / f"{team}-players.csv", players)
 
 
+def get_player_log(site, player_id, season):
+    path = DATA / "raw" / season / "players" / f"{player_id}.json"
+    if not path.exists():
+        year = season[:4]
+        url = f"https://{site}/services/roster_bio_stats.ashx?rp_id={player_id}&sport=mbball&year={year}"
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(urllib.request.urlopen(req, timeout=60).read())
+    return json.loads(path.read_text())["stats"]["game_by_game_stats"]
+
+
+def load_game_logs(team, season, team_games):
+    html = get_page(TEAMS[team], season)
+    start = html.find('id="individual-overall"')
+    chunk = html[start:html.find("</table>", start)]
+    roster = dict(re.findall(r'data-player-id="(\d+)">([^<]+)<', chunk))
+    poss_by_date = {g["date"]: g["poss"] for g in team_games}
+    result_by_date = {g["date"]: (g["opponent"], g["result"]) for g in team_games}
+
+    rows = []
+    for player_id, name in roster.items():
+        for g in get_player_log(TEAMS[team], player_id, season):
+            if g["is_a_footer_stat"] or not (g["minutes_played"] or "").isdigit():
+                continue
+            if g["minutes_played"] == "0":
+                continue
+            stat = lambda k: int(g[k] or 0)
+            mins, pts = stat("minutes_played"), stat("points")
+            fgm, fga = stat("field_goals_made"), stat("field_goals_attempted")
+            ftm, fta = stat("free_throws"), stat("free_throws_attempted")
+            orb, drb = stat("offensive_rebounds"), stat("defensive_rebounds")
+            ast, tov, stl, blk, pf = (stat(k) for k in ("assists", "turnovers", "steals", "blocks", "personal_fouls"))
+
+            shots = fga + 0.44 * fta
+            on_floor = poss_by_date[g["date"]] * mins / 40
+            game_score = (pts + 0.4 * fgm - 0.7 * fga - 0.4 * (fta - ftm) + 0.7 * orb + 0.3 * drb
+                          + stl + 0.7 * ast + 0.7 * blk - 0.4 * pf - tov)
+            opponent, result = result_by_date[g["date"]]
+
+            rows.append({
+                "player": name.strip(),
+                "date": g["date"],
+                "opponent": opponent,
+                "result": result,
+                "min": mins,
+                "pts": pts,
+                "reb": orb + drb,
+                "ast": ast,
+                "tov": tov,
+                "ts_pct": round(100 * pts / (2 * shots), 1) if shots else None,
+                "usg_pct": round(100 * (shots + tov) / on_floor, 1),
+                "gmsc": round(game_score, 1),
+            })
+
+    season_pts = sum(g["us"]["pts"] for g in team_games)
+    if sum(r["pts"] for r in rows) != season_pts:
+        raise ValueError(f"{team} {season}: player game logs don't add up to team points")
+
+    write_csv(DATA / season / f"{team}-player-games.csv", rows)
+
+
 def find_conference_games(teams):
     # a GNAC game shows up in both schools' tables with the same date and flipped score
     lookup = {}
@@ -196,6 +258,7 @@ def adjust_ratings(games, rounds=100):
 
 def run_season(season):
     teams = {team: load_team(team, season) for team in TEAMS}
+    load_game_logs("Saint Martin's", season, teams["Saint Martin's"]["games"])
     conf_games = find_conference_games(teams)
 
     for team, gs in conf_games.items():

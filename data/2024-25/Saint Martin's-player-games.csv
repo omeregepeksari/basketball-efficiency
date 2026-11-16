@@ -1,0 +1,287 @@
+player,date,opponent,result,min,pts,reb,ast,tov,ts_pct,usg_pct,gmsc
+"Watson, Dae'Kwon",11/01/24,at  CSUSB,W,35,16,5,1,1,71.4,16.3,14.9
+"Watson, Dae'Kwon",11/02/24,at  DBU,W,20,11,8,4,0,59.0,21.9,12.2
+"Watson, Dae'Kwon",11/03/24,vs  Hawaii Hilo,W,28,14,3,0,2,49.3,32.1,6.9
+"Watson, Dae'Kwon",11/08/24,vs  Hawaii Hilo,W,28,8,3,1,2,57.1,17.0,6.1
+"Watson, Dae'Kwon",11/09/24,at  Westmont,W,27,9,2,1,2,57.1,21.3,7.3
+"Watson, Dae'Kwon",11/11/24,vs  Douglas (CAN),W,20,17,3,3,0,58.9,36.4,16.3
+"Watson, Dae'Kwon",11/15/24,vs  Evergreen St.,W,34,30,11,4,4,63.8,41.7,28.5
+"Watson, Dae'Kwon",11/21/24,vs  Academy of Art,W,28,11,2,2,0,55.0,19.7,8.5
+"Trejo-Delgado, Diego",11/01/24,at  CSUSB,W,27,19,5,0,7,73.3,34.5,8.8
+"Trejo-Delgado, Diego",11/02/24,at  DBU,W,3,0,0,0,1,,15.7,-1.8
+"Trejo-Delgado, Diego",11/03/24,vs  Hawaii Hilo,W,22,8,9,1,3,47.4,28.8,4.0
+"Trejo-Delgado, Diego",11/08/24,vs  Hawaii Hilo,W,21,20,7,2,3,64.4,46.7,15.8
+"Trejo-Delgado, Diego",11/09/24,at  Westmont,W,24,16,4,3,1,65.6,32.1,13.3
+"Trejo-Delgado, Diego",11/11/24,vs  Douglas (CAN),W,17,12,3,3,1,62.2,31.6,11.6
+"Trejo-Delgado, Diego",11/15/24,vs  Evergreen St.,W,20,20,7,1,1,77.6,35.8,17.7
+"Trejo-Delgado, Diego",11/21/24,vs  Academy of Art,W,29,9,7,3,4,41.4,28.3,4.7
+"Trejo-Delgado, Diego",11/23/24,vs  Point Loma,L,33,20,5,3,2,67.2,28.8,14.2
+"Trejo-Delgado, Diego",11/29/24,at  MSU Denver,L,27,6,3,2,1,27.9,22.1,-1.0
+"Trejo-Delgado, Diego",11/30/24,at  Regis (CO),W,25,16,6,3,0,54.6,34.0,13.0
+"Trejo-Delgado, Diego",12/05/24,at  Alas. Anchorage,W,27,15,9,4,1,50.0,36.3,13.9
+"Trejo-Delgado, Diego",12/07/24,at  Alas. Fairbanks,W,28,7,10,3,2,33.5,24.6,8.4
+"Trejo-Delgado, Diego",12/16/24,vs  Cal St. East Bay,W (OT),30,12,8,1,2,40.1,29.2,6.9
+"Trejo-Delgado, Diego",12/17/24,vs  Lincoln (CA),W,26,17,14,5,1,65.4,25.1,20.6
+"Trejo-Delgado, Diego",01/02/25,vs  Seattle Pacific,W,25,6,4,1,2,51.0,19.1,3.1
+"Trejo-Delgado, Diego",01/04/25,vs  Mont. St. Billings,W,20,11,4,2,3,42.7,43.0,2.6
+"Trejo-Delgado, Diego",01/11/25,at  Western Ore.,W,32,8,11,3,1,40.0,20.5,10.6
+"Trejo-Delgado, Diego",01/16/25,at  Western Wash.,L,23,18,7,2,2,52.3,47.7,13.3
+"Trejo-Delgado, Diego",01/18/25,at  Simon Fraser,L,19,12,5,2,2,63.6,36.0,9.5
+"Trejo-Delgado, Diego",01/23/25,vs  Central Wash.,W,13,7,2,0,4,50.0,48.1,-0.2
+"Trejo-Delgado, Diego",01/25/25,vs  Northwest Nazarene,W,26,18,5,2,6,86.5,36.6,11.1
+"Trejo-Delgado, Diego",01/30/25,at  Mont. St. Billings,L,20,4,3,1,1,28.6,22.3,1.5
+"Trejo-Delgado, Diego",02/01/25,at  Seattle Pacific,L,18,7,1,1,3,50.0,31.3,1.1
+"Trejo-Delgado, Diego",02/08/25,vs  Western Ore.,W,23,20,10,2,4,80.4,40.7,18.4
+"Trejo-Delgado, Diego",02/13/25,vs  Simon Fraser,L,19,7,5,1,3,35.4,39.4,-0.6
+"Trejo-Delgado, Diego",02/15/25,vs  Western Wash.,L,24,6,3,6,3,43.6,21.8,6.6
+"Trejo-Delgado, Diego",02/20/25,at  Northwest Nazarene,L,25,5,8,1,1,23.0,28.0,0.4
+"Trejo-Delgado, Diego",02/22/25,at  Central Wash.,L,20,10,3,2,1,57.1,29.1,8.7
+"Trejo-Delgado, Diego",02/27/25,vs  Alas. Fairbanks,L (4 OT),34,31,14,4,3,69.2,28.0,27.4
+"Trejo-Delgado, Diego",03/01/25,vs  Alas. Anchorage,L,31,24,5,1,3,64.8,44.3,15.7
+"Stevens, Marcel",11/01/24,at  CSUSB,W,15,6,2,0,0,42.9,21.8,1.7
+"Stevens, Marcel",11/02/24,at  DBU,W,26,25,3,1,3,84.0,32.4,19.5
+"Stevens, Marcel",11/03/24,vs  Hawaii Hilo,W,24,8,3,1,1,40.5,25.1,5.1
+"Stevens, Marcel",11/08/24,vs  Hawaii Hilo,W,15,1,0,0,0,17.4,10.2,-1.0
+"Stevens, Marcel",11/09/24,at  Westmont,W,20,8,3,2,0,40.0,29.2,5.3
+"Stevens, Marcel",11/11/24,vs  Douglas (CAN),W,13,9,1,1,0,64.3,27.2,7.5
+"Stevens, Marcel",11/21/24,vs  Academy of Art,W,30,22,4,1,2,71.8,31.9,14.9
+"Stevens, Marcel",11/23/24,vs  Point Loma,L,40,26,2,5,1,77.6,25.0,25.6
+"Stevens, Marcel",11/29/24,at  MSU Denver,L,30,6,4,0,3,20.0,30.5,-1.5
+"Stevens, Marcel",11/30/24,at  Regis (CO),W,26,8,0,1,2,50.0,22.4,0.7
+"Stevens, Marcel",12/05/24,at  Alas. Anchorage,W,32,11,6,1,0,68.8,15.3,11.1
+"Stevens, Marcel",12/07/24,at  Alas. Fairbanks,W,27,16,3,1,2,57.1,32.8,8.4
+"Stevens, Marcel",12/16/24,vs  Cal St. East Bay,W (OT),40,12,1,1,1,45.0,18.5,6.1
+"Stevens, Marcel",12/17/24,vs  Lincoln (CA),W,26,20,2,3,1,76.9,25.1,18.2
+"Stevens, Marcel",01/02/25,vs  Seattle Pacific,W,25,10,1,2,0,72.7,16.7,12.2
+"Stevens, Marcel",01/04/25,vs  Mont. St. Billings,W,20,7,3,3,0,59.5,15.9,8.1
+"Stevens, Marcel",01/11/25,at  Western Ore.,W,30,15,5,1,1,53.6,29.8,8.8
+"Stevens, Marcel",01/16/25,at  Western Wash.,L,33,10,3,1,3,53.6,21.3,5.1
+"Stevens, Marcel",01/18/25,at  Simon Fraser,L,24,11,3,2,1,78.6,19.9,11.6
+"Stevens, Marcel",01/23/25,vs  Central Wash.,W,25,10,2,0,1,55.6,22.7,6.1
+"Stevens, Marcel",01/25/25,vs  Northwest Nazarene,W,26,10,0,3,1,38.5,31.3,5.6
+"Stevens, Marcel",01/30/25,at  Mont. St. Billings,L,24,16,0,1,0,72.7,25.5,9.8
+"Stevens, Marcel",02/01/25,at  Seattle Pacific,L,34,10,2,1,2,41.7,23.2,4.3
+"Stevens, Marcel",02/15/25,vs  Western Wash.,L,31,9,3,2,2,32.4,27.1,4.2
+"Stevens, Marcel",02/20/25,at  Northwest Nazarene,L,26,13,2,2,1,51.4,30.9,7.6
+"Stevens, Marcel",02/22/25,at  Central Wash.,L,39,16,4,5,2,49.0,28.0,11.0
+"Stevens, Marcel",02/27/25,vs  Alas. Fairbanks,L (4 OT),57,31,8,4,2,46.0,23.5,19.2
+"Stevens, Marcel",03/01/25,vs  Alas. Anchorage,L,31,2,4,3,2,12.5,20.6,-2.7
+"Samuels, Myles",11/01/24,at  CSUSB,W,40,17,7,2,0,46.7,21.3,13.4
+"Samuels, Myles",11/02/24,at  DBU,W,32,11,3,3,4,46.8,23.2,4.7
+"Samuels, Myles",11/03/24,vs  Hawaii Hilo,W,35,22,4,2,2,63.2,30.7,19.8
+"Samuels, Myles",11/08/24,vs  Hawaii Hilo,W,29,18,12,4,3,82.7,25.4,18.6
+"Samuels, Myles",11/09/24,at  Westmont,W,17,2,3,1,4,33.3,24.0,-1.1
+"Samuels, Myles",11/11/24,vs  Douglas (CAN),W,14,5,4,3,1,31.2,32.4,3.5
+"Samuels, Myles",11/21/24,vs  Academy of Art,W,27,3,4,4,2,16.7,22.5,0.2
+"Samuels, Myles",11/23/24,vs  Point Loma,L,37,13,8,4,4,50.0,25.9,7.1
+"Samuels, Myles",11/29/24,at  MSU Denver,L,30,5,8,1,3,21.3,25.0,-0.9
+"Samuels, Myles",11/30/24,at  Regis (CO),W,32,17,3,3,2,51.1,33.9,10.0
+"Samuels, Myles",12/05/24,at  Alas. Anchorage,W,34,16,4,1,2,50.4,32.2,7.0
+"Samuels, Myles",12/07/24,at  Alas. Fairbanks,W,35,15,9,2,3,44.7,31.2,7.6
+"Samuels, Myles",12/16/24,vs  Cal St. East Bay,W (OT),36,19,4,4,3,56.7,28.3,13.9
+"Samuels, Myles",01/02/25,vs  Seattle Pacific,W,38,18,4,1,1,52.9,28.8,8.6
+"Samuels, Myles",01/04/25,vs  Mont. St. Billings,W,33,13,7,4,2,60.4,20.9,11.2
+"Samuels, Myles",01/11/25,at  Western Ore.,W,29,21,6,1,1,52.0,43.5,14.8
+"Samuels, Myles",01/16/25,at  Western Wash.,L,34,12,5,3,3,47.0,26.5,7.7
+"Samuels, Myles",01/18/25,at  Simon Fraser,L,30,7,4,1,1,24.4,30.5,-0.2
+"Samuels, Myles",01/23/25,vs  Central Wash.,W,36,7,10,3,1,16.1,35.9,0.7
+"Samuels, Myles",01/25/25,vs  Northwest Nazarene,W,35,7,8,2,4,31.8,24.9,-0.1
+"Samuels, Myles",01/30/25,at  Mont. St. Billings,L,26,10,7,0,1,41.7,27.8,5.5
+"Samuels, Myles",02/01/25,at  Seattle Pacific,L,38,15,11,5,2,58.2,22.0,14.4
+"Samuels, Myles",02/08/25,vs  Western Ore.,W,26,4,7,5,2,25.0,21.9,4.0
+"Samuels, Myles",02/13/25,vs  Simon Fraser,L,25,0,5,3,5,0.0,25.5,-6.4
+"Samuels, Myles",02/15/25,vs  Western Wash.,L,23,13,2,0,2,56.8,31.0,8.3
+"Samuels, Myles",02/20/25,at  Northwest Nazarene,L,32,22,5,2,0,74.5,27.2,19.7
+"Samuels, Myles",02/22/25,at  Central Wash.,L,26,19,2,1,3,74.5,36.2,11.6
+"Samuels, Myles",02/27/25,vs  Alas. Fairbanks,L (4 OT),48,8,9,5,1,29.1,11.5,8.5
+"Samuels, Myles",03/01/25,vs  Alas. Anchorage,L,26,3,2,1,4,21.8,26.7,-1.9
+"Lighthall, Dyson",11/01/24,at  CSUSB,W,5,0,1,0,0,0.0,13.5,-1.2
+"Lighthall, Dyson",11/02/24,at  DBU,W,21,15,4,0,0,72.1,23.3,13.3
+"Lighthall, Dyson",11/03/24,vs  Hawaii Hilo,W,12,6,0,0,0,51.0,27.1,3.6
+"Lighthall, Dyson",11/08/24,vs  Hawaii Hilo,W,16,9,8,1,1,50.0,33.1,6.4
+"Lighthall, Dyson",11/09/24,at  Westmont,W,16,19,5,0,1,66.9,55.4,13.9
+"Lighthall, Dyson",11/11/24,vs  Douglas (CAN),W,16,8,5,2,1,100.0,15.8,13.3
+"Lighthall, Dyson",11/15/24,vs  Evergreen St.,W,16,7,2,0,0,51.8,21.8,4.9
+"Lighthall, Dyson",11/21/24,vs  Academy of Art,W,17,10,7,0,2,63.5,32.1,7.9
+"Lighthall, Dyson",11/23/24,vs  Point Loma,L,26,15,11,3,1,76.8,23.3,15.6
+"Lighthall, Dyson",11/29/24,at  MSU Denver,L,22,13,6,1,2,52.8,33.1,8.8
+"Lighthall, Dyson",11/30/24,at  Regis (CO),W,19,10,4,2,3,77.6,28.9,7.2
+"Lighthall, Dyson",12/05/24,at  Alas. Anchorage,W,22,13,4,2,2,65.0,33.4,9.0
+"Lighthall, Dyson",12/07/24,at  Alas. Fairbanks,W,13,1,2,0,1,12.9,20.8,-3.1
+"Lighthall, Dyson",12/16/24,vs  Cal St. East Bay,W (OT),20,9,4,0,1,53.3,24.4,4.4
+"Lighthall, Dyson",12/17/24,vs  Lincoln (CA),W,26,18,7,2,1,73.1,23.9,16.0
+"Lighthall, Dyson",01/02/25,vs  Seattle Pacific,W,12,4,2,0,0,33.3,30.3,1.6
+"Lighthall, Dyson",01/04/25,vs  Mont. St. Billings,W,28,14,8,1,3,54.3,30.7,10.2
+"Lighthall, Dyson",01/16/25,at  Western Wash.,L,15,12,7,0,0,67.6,33.8,11.3
+"Lighthall, Dyson",01/23/25,vs  Central Wash.,W,15,9,4,0,1,64.3,30.3,6.3
+"Lighthall, Dyson",01/25/25,vs  Northwest Nazarene,W,20,6,5,0,2,77.3,17.1,4.3
+"Lighthall, Dyson",01/30/25,at  Mont. St. Billings,L,12,4,1,0,2,41.0,31.9,1.5
+"Lighthall, Dyson",02/01/25,at  Seattle Pacific,L,13,5,3,0,1,37.0,33.6,2.4
+"Lighthall, Dyson",02/08/25,vs  Western Ore.,W,13,8,5,0,0,57.1,30.6,7.0
+"Lighthall, Dyson",02/13/25,vs  Simon Fraser,L,18,8,2,3,0,50.8,25.4,8.0
+"Lighthall, Dyson",02/15/25,vs  Western Wash.,L,23,12,5,2,2,60.0,27.6,11.7
+"Lighthall, Dyson",02/20/25,at  Northwest Nazarene,L,15,10,3,0,1,50.0,43.2,5.3
+"Lighthall, Dyson",02/22/25,at  Central Wash.,L,6,0,0,1,0,0.0,19.9,-1.1
+"Lighthall, Dyson",02/27/25,vs  Alas. Fairbanks,L (4 OT),33,21,9,1,0,44.2,27.0,14.8
+"Lighthall, Dyson",03/01/25,vs  Alas. Anchorage,L,16,4,7,0,1,34.7,27.0,2.7
+"Nielsen-Skinner, Jaden",11/01/24,at  CSUSB,W,37,9,5,6,2,50.7,13.7,10.2
+"Nielsen-Skinner, Jaden",11/02/24,at  DBU,W,34,11,2,7,2,51.1,17.7,10.4
+"Nielsen-Skinner, Jaden",11/03/24,vs  Hawaii Hilo,W,22,8,3,1,1,41.0,27.1,4.0
+"Nielsen-Skinner, Jaden",11/08/24,vs  Hawaii Hilo,W,28,7,1,5,3,51.8,18.5,4.3
+"Nielsen-Skinner, Jaden",11/09/24,at  Westmont,W,26,13,3,5,1,83.8,19.6,13.4
+"Nielsen-Skinner, Jaden",11/11/24,vs  Douglas (CAN),W,12,10,2,3,0,83.3,25.2,14.5
+"Nielsen-Skinner, Jaden",11/15/24,vs  Evergreen St.,W,32,9,0,10,2,46.1,18.9,9.8
+"Nielsen-Skinner, Jaden",11/21/24,vs  Academy of Art,W,34,12,1,10,2,60.0,19.5,14.9
+"Nielsen-Skinner, Jaden",11/23/24,vs  Point Loma,L,28,13,0,5,0,55.3,23.7,11.9
+"Nielsen-Skinner, Jaden",11/29/24,at  MSU Denver,L,22,5,0,2,4,41.7,23.1,-1.8
+"Nielsen-Skinner, Jaden",11/30/24,at  Regis (CO),W,38,5,3,9,2,31.2,15.3,6.6
+"Nielsen-Skinner, Jaden",12/05/24,at  Alas. Anchorage,W,36,8,2,11,0,48.8,14.0,12.5
+"Nielsen-Skinner, Jaden",12/07/24,at  Alas. Fairbanks,W,30,7,2,1,1,44.4,16.4,4.8
+"Nielsen-Skinner, Jaden",12/16/24,vs  Cal St. East Bay,W (OT),45,12,3,9,2,54.5,14.9,12.1
+"Nielsen-Skinner, Jaden",12/17/24,vs  Lincoln (CA),W,30,11,0,7,1,61.1,15.5,12.2
+"Nielsen-Skinner, Jaden",01/02/25,vs  Seattle Pacific,W,34,4,4,7,1,29.1,14.1,7.5
+"Nielsen-Skinner, Jaden",01/04/25,vs  Mont. St. Billings,W,35,18,3,3,0,63.4,22.0,17.6
+"Nielsen-Skinner, Jaden",01/11/25,at  Western Ore.,W,40,11,1,5,0,55.7,14.7,14.7
+"Nielsen-Skinner, Jaden",01/16/25,at  Western Wash.,L,38,7,3,6,1,58.3,10.5,7.3
+"Nielsen-Skinner, Jaden",01/18/25,at  Simon Fraser,L,23,7,4,4,1,59.5,17.9,7.9
+"Nielsen-Skinner, Jaden",01/23/25,vs  Central Wash.,W,40,10,3,8,5,56.3,19.7,14.5
+"Nielsen-Skinner, Jaden",01/25/25,vs  Northwest Nazarene,W,35,7,4,5,1,29.8,21.2,3.7
+"Nielsen-Skinner, Jaden",01/30/25,at  Mont. St. Billings,L,36,3,3,5,0,13.8,16.8,1.4
+"Nielsen-Skinner, Jaden",02/01/25,at  Seattle Pacific,L,37,19,1,0,2,62.0,26.3,10.5
+"Nielsen-Skinner, Jaden",02/08/25,vs  Western Ore.,W,20,4,3,5,0,41.0,13.9,6.6
+"Nielsen-Skinner, Jaden",02/13/25,vs  Simon Fraser,L,33,14,5,4,4,67.0,25.4,12.7
+"Nielsen-Skinner, Jaden",02/15/25,vs  Western Wash.,L,36,12,6,7,3,50.5,21.9,10.0
+"Nielsen-Skinner, Jaden",02/20/25,at  Northwest Nazarene,L,28,5,0,1,0,41.7,12.6,3.1
+"Nielsen-Skinner, Jaden",02/22/25,at  Central Wash.,L,9,3,0,1,1,50.0,26.5,0.6
+"Nielsen-Skinner, Jaden",02/27/25,vs  Alas. Fairbanks,L (4 OT),48,7,4,8,2,32.9,9.9,6.0
+"Nielsen-Skinner, Jaden",03/01/25,vs  Alas. Anchorage,L,31,4,1,2,0,34.0,12.1,3.6
+"Oludele, Immanuel",11/02/24,at  DBU,W,14,0,1,1,3,0.0,26.9,-2.6
+"Oludele, Immanuel",11/03/24,vs  Hawaii Hilo,W,23,5,5,0,2,42.5,19.0,2.9
+"Oludele, Immanuel",11/08/24,vs  Hawaii Hilo,W,25,6,3,3,2,43.6,18.8,3.8
+"Oludele, Immanuel",11/09/24,at  Westmont,W,24,7,4,0,1,50.0,19.4,3.5
+"Oludele, Immanuel",11/11/24,vs  Douglas (CAN),W,27,15,8,2,1,53.6,28.0,12.8
+"Oludele, Immanuel",11/15/24,vs  Evergreen St.,W,28,6,9,1,1,27.9,21.6,5.5
+"Oludele, Immanuel",11/29/24,at  MSU Denver,L,21,8,11,1,0,44.4,21.8,8.3
+"Oludele, Immanuel",11/30/24,at  Regis (CO),W,19,5,6,0,0,72.7,10.5,6.9
+"Oludele, Immanuel",12/05/24,at  Alas. Anchorage,W,21,12,5,1,1,76.1,25.9,10.9
+"Oludele, Immanuel",12/07/24,at  Alas. Fairbanks,W,25,8,5,0,2,66.7,17.7,3.7
+"Oludele, Immanuel",12/16/24,vs  Cal St. East Bay,W (OT),31,11,7,4,1,78.6,13.3,12.0
+"Oludele, Immanuel",12/17/24,vs  Lincoln (CA),W,34,16,14,12,3,42.4,30.0,20.4
+"Oludele, Immanuel",01/02/25,vs  Seattle Pacific,W,21,10,7,2,1,55.6,28.9,10.2
+"Oludele, Immanuel",01/04/25,vs  Mont. St. Billings,W,34,11,9,1,2,51.1,20.3,10.1
+"Oludele, Immanuel",01/11/25,at  Western Ore.,W,36,13,13,0,1,50.9,22.8,12.0
+"Oludele, Immanuel",01/16/25,at  Western Wash.,L,23,11,8,1,3,91.7,22.4,8.8
+"Oludele, Immanuel",01/18/25,at  Simon Fraser,L,33,11,7,2,1,39.6,27.0,9.2
+"Oludele, Immanuel",01/23/25,vs  Central Wash.,W,19,8,4,1,0,70.9,16.9,7.7
+"Oludele, Immanuel",01/25/25,vs  Northwest Nazarene,W,22,5,7,1,2,83.3,13.2,7.3
+"Oludele, Immanuel",01/30/25,at  Mont. St. Billings,L,23,7,5,2,3,37.1,30.1,3.6
+"Oludele, Immanuel",02/01/25,at  Seattle Pacific,L,17,0,5,0,1,0.0,16.5,-1.9
+"Oludele, Immanuel",02/08/25,vs  Western Ore.,W,31,13,4,1,2,54.2,25.7,7.5
+"Oludele, Immanuel",02/13/25,vs  Simon Fraser,L,28,8,8,3,2,57.1,18.7,6.4
+"Oludele, Immanuel",02/15/25,vs  Western Wash.,L,12,7,2,1,1,47.0,37.3,2.4
+"Oludele, Immanuel",02/20/25,at  Northwest Nazarene,L,29,2,6,0,0,14.3,14.2,0.4
+"Oludele, Immanuel",02/22/25,at  Central Wash.,L,21,2,10,1,2,34.7,13.9,4.2
+"Oludele, Immanuel",02/27/25,vs  Alas. Fairbanks,L (4 OT),4,2,1,0,2,50.0,37.5,-1.1
+"Moore, Jayshawn",11/01/24,at  CSUSB,W,29,16,6,0,6,79.4,25.9,8.7
+"Moore, Jayshawn",11/02/24,at  DBU,W,33,11,11,2,4,51.7,20.9,6.7
+"Moore, Jayshawn",11/03/24,vs  Hawaii Hilo,W,24,2,5,2,1,25.8,11.3,1.0
+"Moore, Jayshawn",11/08/24,vs  Hawaii Hilo,W,19,3,3,1,3,26.0,24.4,-1.2
+"Moore, Jayshawn",11/09/24,at  Westmont,W,21,6,3,1,1,100.0,11.1,6.1
+"Moore, Jayshawn",11/11/24,vs  Douglas (CAN),W,22,4,6,2,0,66.7,6.9,9.9
+"Moore, Jayshawn",11/15/24,vs  Evergreen St.,W,23,4,2,1,2,60.2,11.9,1.1
+"Moore, Jayshawn",01/02/25,vs  Seattle Pacific,W,16,9,6,0,1,84.6,24.0,8.1
+"Moore, Jayshawn",01/04/25,vs  Mont. St. Billings,W,9,4,1,0,1,100.0,18.0,1.5
+"Moore, Jayshawn",01/11/25,at  Western Ore.,W,5,4,1,0,2,100.0,47.6,1.9
+"Moore, Jayshawn",01/16/25,at  Western Wash.,L,21,5,5,1,1,42.5,18.7,5.1
+"Moore, Jayshawn",01/18/25,at  Simon Fraser,L,22,10,4,0,1,63.5,24.1,6.5
+"Moore, Jayshawn",01/23/25,vs  Central Wash.,W,24,6,10,2,2,50.0,18.9,6.2
+"Moore, Jayshawn",01/25/25,vs  Northwest Nazarene,W,15,0,0,0,0,0.0,3.9,-0.7
+"Moore, Jayshawn",01/30/25,at  Mont. St. Billings,L,24,10,2,1,2,74.0,20.3,5.8
+"Moore, Jayshawn",02/01/25,at  Seattle Pacific,L,22,5,3,0,0,64.4,9.9,4.8
+"Moore, Jayshawn",02/08/25,vs  Western Ore.,W,23,10,5,1,1,72.7,19.5,7.8
+"Moore, Jayshawn",02/13/25,vs  Simon Fraser,L,19,4,4,2,4,51.5,24.1,1.6
+"Moore, Jayshawn",02/15/25,vs  Western Wash.,L,15,7,3,0,1,64.3,22.7,5.1
+"Moore, Jayshawn",02/20/25,at  Northwest Nazarene,L,20,3,5,0,0,38.7,11.4,2.6
+"Moore, Jayshawn",02/22/25,at  Central Wash.,L,24,11,4,0,0,66.1,20.7,8.3
+"Moore, Jayshawn",02/27/25,vs  Alas. Fairbanks,L (4 OT),42,12,5,0,1,69.4,8.6,10.7
+"Moore, Jayshawn",03/01/25,vs  Alas. Anchorage,L,26,9,2,0,1,57.1,21.8,5.5
+"Harper, Jacob",11/03/24,vs  Hawaii Hilo,W,2,0,0,1,0,0.0,55.4,-0.7
+"Harper, Jacob",11/08/24,vs  Hawaii Hilo,W,3,0,0,0,0,,0.0,-0.4
+"Harper, Jacob",11/11/24,vs  Douglas (CAN),W,16,11,3,1,1,68.8,28.4,10.6
+"Harper, Jacob",11/15/24,vs  Evergreen St.,W,18,14,6,1,1,70.0,31.5,12.5
+"Harper, Jacob",11/23/24,vs  Point Loma,L,7,0,1,0,0,0.0,8.0,0.0
+"Harper, Jacob",11/29/24,at  MSU Denver,L,19,4,0,1,0,29.1,18.4,0.5
+"Harper, Jacob",11/30/24,at  Regis (CO),W,15,9,3,0,0,75.0,23.3,7.3
+"Harper, Jacob",12/05/24,at  Alas. Anchorage,W,9,0,2,0,0,0.0,6.8,0.3
+"Harper, Jacob",12/07/24,at  Alas. Fairbanks,W,8,6,1,0,0,75.0,27.7,3.9
+"Harper, Jacob",12/16/24,vs  Cal St. East Bay,W (OT),5,3,0,0,0,50.0,31.0,1.3
+"Harper, Jacob",12/17/24,vs  Lincoln (CA),W,21,18,3,1,0,75.0,26.6,14.4
+"Harper, Jacob",01/02/25,vs  Seattle Pacific,W,6,2,0,0,0,100.0,10.1,1.3
+"Harper, Jacob",01/11/25,at  Western Ore.,W,5,5,0,0,0,133.0,22.4,3.9
+"Harper, Jacob",01/18/25,at  Simon Fraser,L,17,10,2,0,1,50.0,38.7,4.8
+"Harper, Jacob",01/30/25,at  Mont. St. Billings,L,17,9,3,0,0,75.0,19.6,7.5
+"Harper, Jacob",02/01/25,at  Seattle Pacific,L,1,0,0,0,0,,0.0,0.0
+"Harper, Jacob",02/08/25,vs  Western Ore.,W,30,15,5,1,1,54.0,28.2,9.3
+"Harper, Jacob",02/13/25,vs  Simon Fraser,L,21,5,3,1,0,31.2,22.1,1.4
+"Harper, Jacob",02/15/25,vs  Western Wash.,L,6,9,2,0,0,76.5,51.9,7.7
+"Harper, Jacob",02/20/25,at  Northwest Nazarene,L,4,0,0,0,0,0.0,14.7,-0.7
+"Harper, Jacob",02/22/25,at  Central Wash.,L,21,0,2,1,2,0.0,8.5,-1.2
+"Harper, Jacob",02/27/25,vs  Alas. Fairbanks,L (4 OT),15,0,2,1,0,,0.0,2.7
+"Harper, Jacob",03/01/25,vs  Alas. Anchorage,L,15,2,1,0,1,100.0,8.5,1.0
+"Gilstrap, Gavin",11/01/24,at  CSUSB,W,12,7,4,0,0,93.1,14.6,9.9
+"Gilstrap, Gavin",11/02/24,at  DBU,W,17,10,7,0,1,85.0,19.0,11.4
+"Gilstrap, Gavin",11/03/24,vs  Hawaii Hilo,W,8,2,2,0,0,100.0,6.9,3.3
+"Gilstrap, Gavin",11/08/24,vs  Hawaii Hilo,W,7,2,1,2,1,50.0,22.7,2.4
+"Gilstrap, Gavin",11/09/24,at  Westmont,W,7,0,1,0,0,0.0,8.3,-1.6
+"Gilstrap, Gavin",11/11/24,vs  Douglas (CAN),W,14,9,6,1,0,90.0,18.0,11.8
+"Gilstrap, Gavin",11/15/24,vs  Evergreen St.,W,8,2,0,0,1,33.3,25.8,-1.5
+"Gilstrap, Gavin",11/21/24,vs  Academy of Art,W,16,6,8,0,0,61.5,16.9,6.2
+"Gilstrap, Gavin",11/23/24,vs  Point Loma,L,14,1,2,1,1,56.8,7.6,0.0
+"Gilstrap, Gavin",11/29/24,at  MSU Denver,L,8,0,1,0,1,,6.4,-0.7
+"Gilstrap, Gavin",11/30/24,at  Regis (CO),W,8,2,2,0,1,53.2,20.9,0.5
+"Gilstrap, Gavin",12/05/24,at  Alas. Anchorage,W,10,4,1,0,1,100.0,18.4,2.6
+"Gilstrap, Gavin",12/07/24,at  Alas. Fairbanks,W,14,3,3,0,0,52.1,11.4,4.0
+"Gilstrap, Gavin",12/16/24,vs  Cal St. East Bay,W (OT),18,8,5,0,0,68.0,16.9,9.6
+"Gilstrap, Gavin",12/17/24,vs  Lincoln (CA),W,21,18,9,1,1,91.1,24.2,18.3
+"Gilstrap, Gavin",01/11/25,at  Western Ore.,W,11,2,5,0,0,20.5,26.4,2.2
+"Gilstrap, Gavin",01/16/25,at  Western Wash.,L,7,0,0,0,0,,0.0,1.0
+"Gilstrap, Gavin",01/18/25,at  Simon Fraser,L,15,4,4,0,1,50.0,19.9,2.9
+"Gilstrap, Gavin",01/23/25,vs  Central Wash.,W,12,6,0,0,0,104.2,13.6,5.0
+"Gilstrap, Gavin",01/25/25,vs  Northwest Nazarene,W,2,0,1,0,0,,0.0,0.2
+"Gilstrap, Gavin",01/30/25,at  Mont. St. Billings,L,9,2,2,0,0,113.6,5.4,2.6
+"Gilstrap, Gavin",02/01/25,at  Seattle Pacific,L,11,4,4,0,1,40.0,30.7,2.2
+"Gilstrap, Gavin",02/08/25,vs  Western Ore.,W,8,0,1,1,4,,28.4,-3.8
+"Gilstrap, Gavin",02/13/25,vs  Simon Fraser,L,10,2,2,0,0,50.0,11.6,2.4
+"Gilstrap, Gavin",02/20/25,at  Northwest Nazarene,L,5,0,2,0,1,0.0,58.9,-3.2
+"Gilstrap, Gavin",02/22/25,at  Central Wash.,L,11,2,1,0,0,100.0,5.4,1.6
+"Peksari, Omer Ege",11/08/24,vs  Hawaii Hilo,W,9,0,4,1,0,0.0,11.8,0.1
+"Peksari, Omer Ege",11/09/24,at  Westmont,W,18,0,1,7,0,,0.0,4.7
+"Peksari, Omer Ege",11/11/24,vs  Douglas (CAN),W,25,8,5,7,2,57.1,18.2,11.8
+"Peksari, Omer Ege",11/15/24,vs  Evergreen St.,W,21,0,3,7,1,0.0,13.4,2.4
+"Peksari, Omer Ege",11/21/24,vs  Academy of Art,W,19,3,3,3,2,75.0,11.6,2.2
+"Peksari, Omer Ege",11/23/24,vs  Point Loma,L,15,0,2,1,1,0.0,11.3,-1.9
+"Peksari, Omer Ege",11/29/24,at  MSU Denver,L,21,9,5,3,3,58.0,26.0,7.2
+"Peksari, Omer Ege",11/30/24,at  Regis (CO),W,18,4,4,1,2,50.0,19.4,1.9
+"Peksari, Omer Ege",12/05/24,at  Alas. Anchorage,W,9,0,0,3,0,0.0,6.8,1.0
+"Peksari, Omer Ege",12/07/24,at  Alas. Fairbanks,W,20,8,6,2,1,60.2,21.1,8.4
+"Peksari, Omer Ege",12/17/24,vs  Lincoln (CA),W,16,2,3,5,3,20.0,23.3,2.7
+"Peksari, Omer Ege",01/02/25,vs  Seattle Pacific,W,23,8,1,5,1,52.4,22.8,7.9
+"Peksari, Omer Ege",01/04/25,vs  Mont. St. Billings,W,21,4,4,3,1,66.7,10.3,5.6
+"Peksari, Omer Ege",01/11/25,at  Western Ore.,W,12,0,1,1,1,0.0,9.9,-0.5
+"Peksari, Omer Ege",01/16/25,at  Western Wash.,L,6,0,0,1,1,,9.5,-1.1
+"Peksari, Omer Ege",01/18/25,at  Simon Fraser,L,17,5,4,5,0,56.3,15.6,8.9
+"Peksari, Omer Ege",01/23/25,vs  Central Wash.,W,16,4,6,3,0,40.0,17.8,7.0
+"Peksari, Omer Ege",01/25/25,vs  Northwest Nazarene,W,19,5,4,2,0,62.5,12.2,5.2
+"Peksari, Omer Ege",01/30/25,at  Mont. St. Billings,L,9,0,0,1,2,0.0,24.7,-2.7
+"Peksari, Omer Ege",02/01/25,at  Seattle Pacific,L,9,0,1,1,0,,0.0,1.0
+"Peksari, Omer Ege",02/08/25,vs  Western Ore.,W,25,7,4,6,0,50.0,15.9,11.3
+"Peksari, Omer Ege",02/13/25,vs  Simon Fraser,L,27,12,4,2,1,71.1,20.3,9.2
+"Peksari, Omer Ege",02/15/25,vs  Western Wash.,L,30,6,5,4,0,100.0,5.3,8.6
+"Peksari, Omer Ege",02/20/25,at  Northwest Nazarene,L,16,3,2,1,4,52.1,25.3,-1.5
+"Peksari, Omer Ege",02/22/25,at  Central Wash.,L,23,7,4,3,1,59.5,17.9,8.6
+"Peksari, Omer Ege",02/27/25,vs  Alas. Fairbanks,L (4 OT),16,3,1,1,2,38.7,13.8,-0.9
+"Peksari, Omer Ege",03/01/25,vs  Alas. Anchorage,L,15,0,3,2,2,0.0,17.0,-0.4
+"Hega, Thomas",11/11/24,vs  Douglas (CAN),W,4,2,2,1,0,100.0,12.6,3.0
+"Hega, Thomas",02/08/25,vs  Western Ore.,W,1,0,1,0,0,,0.0,0.3
+"Hega, Thomas",02/27/25,vs  Alas. Fairbanks,L (4 OT),3,0,0,0,0,,0.0,-0.8
+"Hega, Thomas",03/01/25,vs  Alas. Anchorage,L,9,0,1,0,0,,0.0,0.3
