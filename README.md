@@ -27,6 +27,8 @@ Points scored (ORtg) and allowed (DRtg) per 100 possessions, adjusted for oppone
 
 Player ratings (true shooting %, usage %, per-100 stats, Game Score) and full tables for 2024-25 and 2025-26 are in `data/`.
 
+Game-by-game player ratings for Saint Martin's are in `data/<season>/Saint Martin's-player-games.csv`.
+
 ## Run it
 
 ```
